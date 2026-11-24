@@ -1,0 +1,1 @@
+{"description":"The funniest last words an AI agent would say before being switched off forever — a make.fun bounty entry.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"last-words-agent-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
